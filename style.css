@@ -292,6 +292,10 @@ btn-box:hover{
     width: 40%;
     animation-delay: 0.3s;
 }
+.skillPer.ils{
+    width: 70%;
+    animation-delay: 0.3s;
+}
 
 
 @keyframes progress{
